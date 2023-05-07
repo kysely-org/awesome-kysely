@@ -20,7 +20,7 @@
 ## Articles
 
 - [Typesafe Database Queries on the Edge](https://www.nexxel.dev/blog/typesafe-database) - The groundbreaking blog post by [nexxel](https://twitter.com/nexxeln) that set the stage for the Prisma + Kysely + Planetscale's DatabaseJS serverless driver usage pattern.
-- [Kysely dialect for PlanetScale](https://depot.dev/blog/kysely-dialect-planetscale) - A blog post by [Jacob Gillespie](https://twitter.com/jacobwgillespie) on how [Depot] adopted [Kysely](https://kysely.dev) and [PlanetScale](https://planetscale.com/) and created the [Planetscale dialect](https://github.com/depot/kysely-planetscale).
+- [Kysely dialect for PlanetScale](https://depot.dev/blog/kysely-dialect-planetscale) - A blog post by [Jacob Gillespie](https://twitter.com/jacobwgillespie) on how [Depot](https://depot.dev) adopted [Kysely](https://kysely.dev) and [PlanetScale](https://planetscale.com/) and created the [Planetscale dialect](https://github.com/depot/kysely-planetscale).
 
 ## ORMs
 
