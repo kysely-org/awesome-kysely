@@ -26,4 +26,4 @@
 
 ## Templates
 
-- [Vercel Postgres + Kysely Next.js Starter](https://vercel.com/templates/next.js/postgres-kysely) - Simple Next.js template that uses [Vercel Postgres] as the database and [Kysely](https://kysely.dev) as the query builder.
+- [Vercel Postgres + Kysely Next.js Starter](https://vercel.com/templates/next.js/postgres-kysely) - Simple Next.js template that uses [Vercel Postgres](https://vercel.com/postgres) as the database and [Kysely](https://kysely.dev) as the query builder.
