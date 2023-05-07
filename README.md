@@ -12,6 +12,7 @@
 - [Articles](#articles)
 - [ORMs](#orms)
 - [Templates](#templates)
+- [Videos](#videos)
 
 ## Adapters
 
@@ -34,3 +35,7 @@
 
 - [Acme Corp](https://acme-corp.jumr.dev) - Your all-in-one, enterprise ready starting point. Full-stack Typesafety with [tRPC](https://trpc.io/), [Next.js](https://nextjs.org), and [React](https://react.dev) Server Components. Typesafe database access using [Kysely](https://kysely.dev) as query builder, and [Prisma](https://www.prisma.io) for schema management.
 - [Vercel Postgres + Kysely Next.js Starter](https://vercel.com/templates/next.js/postgres-kysely) - Simple [Next.js](https://nextjs.org) template that uses [Vercel Postgres](https://vercel.com/postgres) as the database and [Kysely](https://kysely.dev) as the query builder.
+
+## Videos
+
+- [Type-Safe SQL on the Edge with Kysely](https://youtu.be/zd9a_Lk3jAc) - [Supabase](https://supabase.com) Edge Functions can connect directly to your [Postgres](https://www.postgresql.org) database to execute SQL Queries. [Kysely](https://kysely.dev) is a type-safe and autocompletion-friendly typescript SQL query builder. Combining [Kysely](https://kysely.dev) with [Deno Postgres](https://deno-postgres.com) provides a neat developer experience for interacting directly with your [Postgres](https://www.postgresql.org) database.
