@@ -40,6 +40,7 @@
 
 ## Dialects
 
+- [kysely-data-api](https://github.com/serverless-stack/kysely-data-api) - This library adds [AWS RDS Data Api](https://docs.aws.amazon.com/rdsdataservice/latest/APIReference/Welcome.html) support for [Kysely](https://kysely.dev). It has support for both [MySQL](https://www.mysql.com) and [Postgres](https://www.postgresql.org).
 - [kysely-planetscale](https://github.com/depot/kysely-planetscale) - A [Kysely](https://kysely.dev) dialect for [PlanetScale](https://planetscale.com), using the [PlanetScale](https://planetscale.com) serverless driver for JavaScript.
 - [kysely-d1](https://github.com/aidenwallis/kysely-d1) - [Kysely](https://kysely.dev) dialect for [Cloudflare D1](https://developers.cloudflare.com/d1).
 
