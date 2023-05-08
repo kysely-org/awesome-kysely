@@ -47,6 +47,7 @@
 ## Type Generators
 
 - [kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate [Kysely](https://kysely.dev) type definitions from your database.
+- [prisma-kysely](https://github.com/valtyr/prisma-kysely) - Generate [Kysely](https://kysely.dev) types directly from your [Prisma](https://www.prisma.io) schema.
 
 ## Videos
 
