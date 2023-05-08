@@ -57,6 +57,7 @@
 ## ORMs
 
 - [kysely-orm](https://github.com/seeden/kysely-orm) - TypeSafe ORM for [Kysely](https://kysely.dev) library.
+- [kysely-mapper](https://github.com/jtlapp/kysely-mapper) - Flexible [Kysely](https://kysely.dev)-based utility for mapping between tables and objects.
 
 ## Templates
 
