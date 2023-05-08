@@ -49,6 +49,7 @@
 - [kysely-data-api](https://github.com/serverless-stack/kysely-data-api) - This library adds [AWS RDS Data Api](https://docs.aws.amazon.com/rdsdataservice/latest/APIReference/Welcome.html) support for [Kysely](https://kysely.dev). It has support for both [MySQL](https://www.mysql.com) and [Postgres](https://www.postgresql.org).
 - [kysely-planetscale](https://github.com/depot/kysely-planetscale) - A [Kysely](https://kysely.dev) dialect for [PlanetScale](https://planetscale.com), using the [PlanetScale](https://planetscale.com) serverless driver for JavaScript.
 - [kysely-d1](https://github.com/aidenwallis/kysely-d1) - [Kysely](https://kysely.dev) dialect for [Cloudflare D1](https://developers.cloudflare.com/d1).
+- [kysely-singlestore](https://github.com/igalklebanov/kysely-singlestore) - [Kysely](https://kysely.dev) dialects, plugins and other goodies for [SingleStore](https://www.singlestore.com) (formerly MemSQL).
 - [kysely-neon](https://github.com/seveibar/kysely-neon) - [Kysely](https://kysely.dev) dialect for [Neon](https://neon.tech) serverless [Postgres](https://www.postgresql.org).
 - [@libsql/kysely-libsql](https://github.com/libsql/kysely-libsql) - A [Kysely](https://kysely.dev) dialect for [libSQL/sqld](https://github.com/libsql/sqld), using the Hrana protocol over a WebSocket.
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - [Kysely](https://kysely.dev) dialects, plugins and other goodies for [SurrealDB](https://surrealdb.com). SurrealQL is based on SQL, so why not? :trollface:
