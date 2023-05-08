@@ -21,6 +21,7 @@
 
 ## Addons
 
+- [kysely-paginate](https://github.com/charlie-hadden/kysely-paginate) - Pagination helpers for use with [Kysely](https://kysely.dev).
 - [kysely-params](https://github.com/jtlapp/kysely-params) - A utility for parameterizing compiled [Kysely](https://kysely.dev) queries.
 
 ## Articles
