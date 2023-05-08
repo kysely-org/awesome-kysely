@@ -13,6 +13,7 @@
 - [Articles](#articles)
 - [ORMs](#orms)
 - [Templates](#templates)
+- [Type Generators](#type-generators)
 - [Videos](#videos)
 
 ## Adapters
@@ -42,6 +43,10 @@
 
 - [Acme Corp](https://acme-corp.jumr.dev) - Your all-in-one, enterprise ready starting point. Full-stack Typesafety with [tRPC](https://trpc.io/), [Next.js](https://nextjs.org), and [React](https://react.dev) Server Components. Typesafe database access using [Kysely](https://kysely.dev) as query builder, and [Prisma](https://www.prisma.io) for schema management.
 - [Vercel Postgres + Kysely Next.js Starter](https://vercel.com/templates/next.js/postgres-kysely) - Simple [Next.js](https://nextjs.org) template that uses [Vercel Postgres](https://vercel.com/postgres) as the database and [Kysely](https://kysely.dev) as the query builder.
+
+## Type Generators
+
+- [kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate [Kysely](https://kysely.dev) type definitions from your database.
 
 ## Videos
 
