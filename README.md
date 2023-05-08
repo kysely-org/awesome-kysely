@@ -53,6 +53,7 @@
 - [kysely-neon](https://github.com/seveibar/kysely-neon) - [Kysely](https://kysely.dev) dialect for [Neon](https://neon.tech) serverless [Postgres](https://www.postgresql.org).
 - [@libsql/kysely-libsql](https://github.com/libsql/kysely-libsql) - A [Kysely](https://kysely.dev) dialect for [libSQL/sqld](https://github.com/libsql/sqld), using the Hrana protocol over a WebSocket.
 - [kysely-surrealdb](https://github.com/igalklebanov/kysely-surrealdb) - [Kysely](https://kysely.dev) dialects, plugins and other goodies for [SurrealDB](https://surrealdb.com). SurrealQL is based on SQL, so why not? :trollface:
+- [@andersgee/kysely-fetch-driver](https://github.com/Andersgee/kysely-fetch-driver) - Edge compatible fetch driver for [Kysely](https://kysely.dev).
 - [kysely-s3-select](https://github.com/igalklebanov/kysely-s3-select) - [Kysely](https://kysely.dev) dialects, plugins and other goodies for [Amazon S3 Select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html).
 
 ## ORMs
