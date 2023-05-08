@@ -28,6 +28,7 @@
 - [Simple CQRS in NodeJS with Typescript](https://itnext.io/simple-cqrs-in-nodejs-with-typescript-6da6d3e8a420) - A blog post by Illija on how to implement a simple CQRS pattern with query models using [Kysely](https://kysely.dev).
 - [Kysely and CockroachDB](https://morgans-blog.deno.dev/kysely-crdb) - A blog post by [Morgan Winslow](https://github.com/mowinslow2) on [Kysely](https://kysely.dev) and how to use it with [CockroachDB](https://www.cockroachlabs.com).
 - [Type-safe S3 Select queries with Kysely](https://dev.to/kumo/type-safe-s3-select-queries-with-kysely-4ge0) - A blog post by [Thomas Aribart](https://twitter.com/aribartt) on how to query [AWS S3](https://aws.amazon.com/s3) buckets, and how to do it in a type-safe manner with [Kysely](https://kysely.dev). Inspired the [S3 Select dialect](https://github.com/igalklebanov/kysely-s3-select).
+- [Typescript で SQL を叩く方法を整理する](https://zenn.dev/moekidev/articles/d3db4dc362b93d) - A blog post by [moekidev](https://twitter.com/moekidev) about trying out [Kysely](https://kysely.dev) with [Prisma](https://www.prisma.io) and [Vercel Postgres](https://vercel.com/postgres).
 
 ## ORMs
 
