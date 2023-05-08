@@ -9,6 +9,7 @@
 ## Contents
 
 - [Adapters](#adapters)
+- [Addons](#addons)
 - [Articles](#articles)
 - [ORMs](#orms)
 - [Templates](#templates)
@@ -17,6 +18,10 @@
 ## Adapters
 
 - [nestjs-kysely](https://github.com/kazu728/nestjs-kysely) - [Kysely](https://kysely.dev) module for [NestJS](https://nestjs.com/).
+
+## Addons
+
+- [kysely-params](https://github.com/jtlapp/kysely-params) - A utility for parameterizing compiled [Kysely](https://kysely.dev) queries.
 
 ## Articles
 
