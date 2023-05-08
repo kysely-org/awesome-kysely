@@ -41,6 +41,7 @@
 ## Dialects
 
 - [kysely-planetscale](https://github.com/depot/kysely-planetscale) - A [Kysely](https://kysely.dev) dialect for [PlanetScale](https://planetscale.com), using the [PlanetScale](https://planetscale.com) serverless driver for JavaScript.
+- [kysely-d1](https://github.com/aidenwallis/kysely-d1) - [Kysely](https://kysely.dev) dialect for [Cloudflare D1](https://developers.cloudflare.com/d1).
 
 ## ORMs
 
