@@ -79,3 +79,4 @@
 ## Videos
 
 - [Type-Safe SQL on the Edge with Kysely](https://youtu.be/zd9a_Lk3jAc) - [Supabase](https://supabase.com) Edge Functions can connect directly to your [Postgres](https://www.postgresql.org) database to execute SQL Queries. [Kysely](https://kysely.dev) is a type-safe and autocompletion-friendly typescript SQL query builder. Combining [Kysely](https://kysely.dev) with [Deno Postgres](https://deno-postgres.com) provides a neat developer experience for interacting directly with your [Postgres](https://www.postgresql.org) database.
+- [Let's Talk About Database Performance](https://youtu.be/3P7jnolWfHw?t=957) - [Theo Browne aka t3.gg](https://twitter.com/t3dotgg) talks about database performance, [Prisma](https://www.prisma.io), serverless and edge functions, [PlanetScale](https://planetscale.com), their Data API offering and type-safety via [Kysely](https://kysely.dev) (starts at the [15:57](https://youtu.be/3P7jnolWfHw?t=957) mark).
