@@ -81,7 +81,7 @@
 
 ## Type Generators
 
-- [kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate [Kysely](https://kysely.dev) type definitions from your database. ![npm](https://img.shields.io/npm/dw/kysely-codegen?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RobinBlomberg/kysely-codegen?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-codegen?style=flat-square)
+- [kysely-codegen](https://github.com/RobinBlomberg/kysely-codegen) - Generate [Kysely](https://kysely.dev) type definitions from your database. ![npm](https://img.shields.io/npm/dw/kysely-codegen?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/RobinBlomberg/kysely-codegen?style=flat-square) ![GitHub](https://img.shields.io/github/license/RobinBlomberg/kysely-codegen?style=flat-square)
 - [prisma-kysely](https://github.com/valtyr/prisma-kysely) - Generate [Kysely](https://kysely.dev) types directly from your [Prisma](https://www.prisma.io) schema. ![npm](https://img.shields.io/npm/dw/prisma-kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/valtyr/prisma-kysely?style=flat-square) ![NPM](https://img.shields.io/npm/l/prisma-kysely?style=flat-square)
 
 ## Videos
