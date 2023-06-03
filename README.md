@@ -72,7 +72,8 @@
 
 ## Templates
 
-- [Acme Corp](https://acme-corp.jumr.dev) - Your all-in-one, enterprise ready starting point. Full-stack Typesafety with [tRPC](https://trpc.io/), [Next.js](https://nextjs.org), and [React](https://react.dev) Server Components. Typesafe database access using [Kysely](https://kysely.dev) as query builder, and [Prisma](https://www.prisma.io) for schema management. ![GitHub stars](https://img.shields.io/github/stars/juliusmarminge/acme-corp?style=flat-square)
+- [Acme Corp](https://acme-corp.jumr.dev) - Your all-in-one, enterprise ready starting point. Full-stack Typesafety with [tRPC](https://trpc.io/), [Next.js](https://nextjs.org), and [React](https://react.dev) Server Components. Typesafe database access using [Kysely](https://kysely.dev) as query builder, and [Prisma](https://www.prisma.io) for schema management. ![GitHub stars](https://img.shields.io/github/stars/juliusmarminge/acme-corp?style=flat-square) ![GitHub](https://img.shields.io/github/license/juliusmarminge/acme-corp?style=flat-square)
+- [create-o7-app](https://github.com/ottomated/create-o7-app) - An opinionated CLI for creating type-safe [Svelte](https://svelte.dev) apps. create-o7-app's template includes [Kysely](https://kysely.dev) for Edge support and fast cold starts, with all the convenience of using [Prisma](https://www.prisma.io) to define your database model. ![npm](https://img.shields.io/npm/dw/create-o7-app?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ottomated/create-o7-app?style=flat-square) ![NPM](https://img.shields.io/npm/l/create-o7-app?style=flat-square)
 - [Vercel Postgres + Kysely Next.js Starter](https://vercel.com/templates/next.js/postgres-kysely) - Simple [Next.js](https://nextjs.org) template that uses [Vercel Postgres](https://vercel.com/postgres) as the database and [Kysely](https://kysely.dev) as the query builder.
 
 ## Tools
