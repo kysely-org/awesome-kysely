@@ -64,6 +64,7 @@
 - [kysely-ydb](https://github.com/Gaspero/kysely-ydb) - [Kysely](https://kysely.dev) dialects, plugins and other goodies for [YDB](https://ydb.tech). ![npm](https://img.shields.io/npm/dw/kysely-ydb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/Gaspero/kysely-ydb?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-ydb?style=flat-square)
 - [kysely-deno-postgres](https://github.com/barthuijgen/kysely-deno-postgres) - A [Kysely](https://kysely.dev) dialect for [PostgreSQL](https://www.postgresql.org) using [deno-postgres](https://deno-postgres.com/#) under the hood. ![GitHub stars](https://img.shields.io/github/stars/barthuijgen/kysely-deno-postgres?style=flat-square) ![GitHub](https://img.shields.io/github/license/barthuijgen/kysely-deno-postgres?style=flat-square)
 - [kysely-pg-client](https://github.com/jtlapp/kysely-pg-client) - Non-pooling single-connection [PostgreSQL](https://www.postgresql.org) dialect for [Kysely](https://kysely.dev), thoroughly tested. ![npm](https://img.shields.io/npm/dw/kysely-pg-client?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jtlapp/kysely-pg-client?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-pg-client?style=flat-square)
+- [kysely-expo](https://github.com/mphill/kysely-expo) - Support for [Kysely](https://kysely.dev) with [Expo SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite). ![GitHub stars](https://img.shields.io/github/stars/mphill/kysely-expo?style=flat-square)
 
 ## ORMs
 
