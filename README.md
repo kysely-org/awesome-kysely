@@ -14,6 +14,7 @@
 - [CLIs](#clis)
 - [Dialects](#dialects)
 - [ORMs](#orms)
+- [Plugins](#plugins)
 - [Templates](#templates)
 - [Tools](#tools)
 - [Type Generators](#type-generators)
@@ -65,11 +66,19 @@
 - [kysely-deno-postgres](https://github.com/barthuijgen/kysely-deno-postgres) - A [Kysely](https://kysely.dev) dialect for [PostgreSQL](https://www.postgresql.org) using [deno-postgres](https://deno-postgres.com/#) under the hood. ![GitHub stars](https://img.shields.io/github/stars/barthuijgen/kysely-deno-postgres?style=flat-square) ![GitHub](https://img.shields.io/github/license/barthuijgen/kysely-deno-postgres?style=flat-square)
 - [kysely-pg-client](https://github.com/jtlapp/kysely-pg-client) - Non-pooling single-connection [PostgreSQL](https://www.postgresql.org) dialect for [Kysely](https://kysely.dev), thoroughly tested. ![npm](https://img.shields.io/npm/dw/kysely-pg-client?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jtlapp/kysely-pg-client?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-pg-client?style=flat-square)
 - [kysely-expo](https://github.com/mphill/kysely-expo) - Support for [Kysely](https://kysely.dev) with [Expo SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite). ![GitHub stars](https://img.shields.io/github/stars/mphill/kysely-expo?style=flat-square)
+- [kysely-wasm](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/dialect-wasm) - [WebAssembly](https://webassembly.org) dialect for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/kysely-wasm?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-wasm?style=flat-square)
+- [kysely-sqlite-worker](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/dialect-sqlite-worker) - Execute SQL in [Node worker threads](https://nodejs.org/api/worker_threads.html), using [better-sqlite3](https://github.com/WiseLibs/better-sqlite3). ![npm](https://img.shields.io/npm/dw/kysely-sqlite-worker?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-sqlite-worker?style=flat-square)
+- [kysely-wasqlite-worker](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/dialect-wasqlite-worker) - Execute SQL in [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers), using [wa-sqlite](https://github.com/rhashimoto/wa-sqlite), store data in [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API). ![npm](https://img.shields.io/npm/dw/kysely-wasqlite-worker?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-wasqlite-worker?style=flat-square)
+- [kysely-dialect-tauri](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/dialect-tauri) - [Kysely](https://kysely.dev) dialect using [Tauri](https://tauri.app)'s official [SQLite](https://www.sqlite.org/index.html) [plugin](https://github.com/tauri-apps/plugins-workspace/tree/dev/plugins/sql). ![npm](https://img.shields.io/npm/dw/kysely-dialect-tauri?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-dialect-tauri?style=flat-square)
 
 ## ORMs
 
 - [kysely-orm](https://github.com/seeden/kysely-orm) - TypeSafe ORM for [Kysely](https://kysely.dev) library. ![npm](https://img.shields.io/npm/dw/kysely-orm?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/seeden/kysely-orm?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-orm?style=flat-square)
 - [kysely-mapper](https://github.com/jtlapp/kysely-mapper) - Flexible [Kysely](https://kysely.dev)-based utility for mapping between tables and objects. ![npm](https://img.shields.io/npm/dw/kysely-mapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jtlapp/kysely-mapper?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-mapper?style=flat-square)
+
+## Plugins
+
+- [kysely-plugin-serialize](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/plugin-serialize) - [Kysely](https://kysely.dev) plugin that serializes parameters. ![npm](https://img.shields.io/npm/dw/kysely-plugin-serialize?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-plugin-serialize?style=flat-square)
 
 ## Templates
 
