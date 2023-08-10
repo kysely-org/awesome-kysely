@@ -23,6 +23,7 @@
 ## Adapters
 
 - [nestjs-kysely](https://github.com/kazu728/nestjs-kysely) - [Kysely](https://kysely.dev) module for [NestJS](https://nestjs.com/). ![npm](https://img.shields.io/npm/dw/nestjs-kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kazu728/nestjs-kysely?style=flat-square) ![NPM](https://img.shields.io/npm/l/nestjs-kysely?style=flat-square)
+- [@auth/kysely-adapter](https://authjs.dev/reference/adapter/kysely) - Official [Auth.js](https://authjs.dev) adapter for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/@auth/kysely-adapter?style=flat-square) ![NPM](https://img.shields.io/npm/l/@auth/kysely-adapter?style=flat-square)
 - [authjs-adapter-sql](https://github.com/roelandmoors/authjs-adapter-sql) - [Auth.js](https://authjs.dev) adapter with [Kysely](https://kysely.dev) support. ![npm](https://img.shields.io/npm/dw/authjs-adapter-sql?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/roelandmoors/authjs-adapter-sql?style=flat-square) ![NPM](https://img.shields.io/npm/l/authjs-adapter-sql?style=flat-square)
 - [feathers-kysely](https://github.com/marshallswain/feathers-kysely) - [FeathersJS](https://feathersjs.com) SQL service adapter built with [Kysely](https://kysley.dev). ![npm](https://img.shields.io/npm/dw/feathers-kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/marshallswain/feathers-kysely?style=flat-square) ![NPM](https://img.shields.io/npm/l/feathers-kysely?style=flat-square)
 
