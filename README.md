@@ -52,6 +52,7 @@
 
 ## CLIs
 
+- [kysely-migrate](https://github.com/tmm/kysely-migrate) - [Kysely](https://kysely.dev) migrations and codegen CLI. ![npm](https://img.shields.io/npm/dw/kysely-migrate?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/tmm/kysely-migrate?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-migrate?style=flat-square)
 - [kysely-migration-cli](https://github.com/acro5piano/kysely-migration-cli) - Thin migration cli library for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/kysely-migration-cli?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/acro5piano/kysely-migration-cli?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-migration-cli?style=flat-square)
 
 ## Dialects
