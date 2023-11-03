@@ -77,6 +77,7 @@
 - [kysely-expo](https://github.com/mphill/kysely-expo) - Support for [Kysely](https://kysely.dev) with [Expo SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite). ![GitHub stars](https://img.shields.io/github/stars/mphill/kysely-expo?style=flat-square) ![GitHub](https://img.shields.io/github/license/mphill/kysely-expo?style=flat-square)
 - [kysely-deno-postgres](https://github.com/barthuijgen/kysely-deno-postgres) - A [Kysely](https://kysely.dev) dialect for [PostgreSQL](https://www.postgresql.org) using [deno-postgres](https://deno-postgres.com/#) under the hood. ![GitHub stars](https://img.shields.io/github/stars/barthuijgen/kysely-deno-postgres?style=flat-square) ![GitHub](https://img.shields.io/github/license/barthuijgen/kysely-deno-postgres?style=flat-square)
 - [kysely-bun-worker](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/dialect-bun-worker) - [Kysely](https://kysely.dev) dialect for [Bun SQLite](https://bun.sh/docs/api/sqlite), run sql in worker. ![npm](https://img.shields.io/npm/dw/kysely-bun-worker?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-bun-worker?style=flat-square)
+- [kysely-duckdb](https://github.com/runoshun/kysely-duckdb) - This dialect allows you to use [Kysely](https://kysely.dev) with [DuckDB](https://duckdb.org). ![npm](https://img.shields.io/npm/dw/kysely-duckdb?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/runoshun/kysely-duckdb?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-duckdb?style=flat-square)
 
 ## ORMs
 
