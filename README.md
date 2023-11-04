@@ -22,9 +22,11 @@
 
 ## Adapters
 
-- [@auth/kysely-adapter](https://authjs.dev/reference/adapter/kysely) - Official [Auth.js](https://authjs.dev) adapter for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/@auth/kysely-adapter?style=flat-square) ![NPM](https://img.shields.io/npm/l/@auth/kysely-adapter?style=flat-square)
-- [nestjs-kysely](https://github.com/kazu728/nestjs-kysely) - [Kysely](https://kysely.dev) module for [NestJS](https://nestjs.com/). ![npm](https://img.shields.io/npm/dw/nestjs-kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kazu728/nestjs-kysely?style=flat-square) ![NPM](https://img.shields.io/npm/l/nestjs-kysely?style=flat-square)
-- [feathers-kysely](https://github.com/marshallswain/feathers-kysely) - [FeathersJS](https://feathersjs.com) SQL service adapter built with [Kysely](https://kysley.dev). ![npm](https://img.shields.io/npm/dw/feathers-kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/marshallswain/feathers-kysely?style=flat-square) ![NPM](https://img.shields.io/npm/l/feathers-kysely?style=flat-square)
+| name | description | url | status |
+| :--- | :--- | :---: | :--- |
+| <img src="https://github.com/kysely-org/awesome-kysely/assets/14938291/69392ade-a58b-4d13-bf7d-e42ee863b6d5" height="24px" width="24px" /> @auth/kysely-adapter | Official [Auth.js](https://authjs.dev) adapter for [Kysely](https://kysely.dev). | [link](https://authjs.dev/reference/adapter/kysely) | ![npm](https://img.shields.io/npm/dw/@auth/kysely-adapter?style=flat-square) <br/>![NPM](https://img.shields.io/npm/l/@auth/kysely-adapter?style=flat-square) |
+| <img src="https://github.com/kysely-org/awesome-kysely/assets/14938291/eac6f115-f2d2-45a8-a6a2-9e21824682ec" height="24px" width="24px" /> nestjs-kysely | [Kysely](https://kysely.dev) module for [NestJS](https://nestjs.com/). | [link](https://github.com/kazu728/nestjs-kysely) | ![npm](https://img.shields.io/npm/dw/nestjs-kysely?style=flat-square) <br/>![GitHub stars](https://img.shields.io/github/stars/kazu728/nestjs-kysely?style=flat-square) <br/>![NPM](https://img.shields.io/npm/l/nestjs-kysely?style=flat-square) |
+| <img src="https://github.com/kysely-org/awesome-kysely/assets/14938291/60297077-dfb1-4fc3-b6bc-e8c310836042" height="24px" width="24px" /> feathers-kysely | [FeathersJS](https://feathersjs.com) SQL service adapter built with [Kysely](https://kysley.dev). | [link](https://github.com/marshallswain/feathers-kysely) | ![npm](https://img.shields.io/npm/dw/feathers-kysely?style=flat-square) <br/>![GitHub stars](https://img.shields.io/github/stars/marshallswain/feathers-kysely?style=flat-square) <br/>![NPM](https://img.shields.io/npm/l/feathers-kysely?style=flat-square) |
 
 ## Addons
 
