@@ -51,7 +51,7 @@
 - [Kysely: The Type-Safe SQL Query Builder for TypeScript](https://www.pugazhenthi.in/blog/kysely-typescript-sql-query-builder) - A blog post by [Pugazhenthi](https://github.com/codebypugazh) providing a short overview of [Kysely](https://kysely.dev).
 - [Typescript で SQL を叩く方法を整理する](https://zenn.dev/moekidev/articles/d3db4dc362b93d) - A blog post by [moekidev](https://twitter.com/moekidev) about trying out [Kysely](https://kysely.dev) with [Prisma](https://www.prisma.io) and [Vercel Postgres](https://vercel.com/postgres).
 - [現状Cloudflare WorkersでGraphQLサーバを構築するならコレ](https://zenn.dev/chimame/articles/3e7f0f0f7e783d) - A blog post by [chimame](https://twitter.com/chimame_rt) about combining [GraphQL](https://graphql.org/), [Prisma](https://www.prisma.io) and [Kysely](https://kysely.dev) on [Cloudflare Workers](https://workers.cloudflare.com).
-- [Kysely が Knex をリプレイスする日も近いかもしれない](https://zenn.dev/acro5piano/articles/388b504289ccaa) - A blog post by [acro5piano](https://github.com/acro5piano) comparing comparing the type safety of Knex, Slonik, and Kysely.
+- [Kysely が Knex をリプレイスする日も近いかもしれない](https://zenn.dev/acro5piano/articles/388b504289ccaa) - A blog post by [acro5piano](https://github.com/acro5piano) comparing the type safety of Kysely, Knex, and Slonik.
 
 ## CLIs
 
