@@ -92,6 +92,7 @@
 - [kysely-plugin-serialize](https://github.com/subframe7536/kysely-sqlite-tools/tree/master/packages/plugin-serialize) - [Kysely](https://kysely.dev) plugin that serializes parameters. ![npm](https://img.shields.io/npm/dw/kysely-plugin-serialize?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-plugin-serialize?style=flat-square)
 - [kysely-access-control](https://github.com/ben-pr-p/kysely-utils/tree/main/packages/kysely-access-control) - plugin that allows you to Allow/Deny/Omit (or add a where clause) to access any kysely table or column
 - [kysely-grants](https://github.com/ben-pr-p/kysely-utils/tree/main/packages/kysely-grants) - plugin that implements "Postgres-style grants" on top of [kysely-access-control](https://github.com/ben-pr-p/kysely-utils/tree/main/packages/kysely-access-control)
+- [kysely-plugin-prefix](https://github.com/cloudmix-dev/kysely-plugin-prefix) - set of plugins that allow you to prefix table and index names implicitly
 
 ## Templates
 
