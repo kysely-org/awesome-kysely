@@ -38,6 +38,7 @@
 
 - [kysely-paginate](https://github.com/charlie-hadden/kysely-paginate) - Pagination helpers for use with [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/kysely-paginate?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/charlie-hadden/kysely-paginate?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-paginate?style=flat-square)
 - [kysely-params](https://github.com/jtlapp/kysely-params) - A utility for parameterizing compiled [Kysely](https://kysely.dev) queries. ![npm](https://img.shields.io/npm/dw/kysely-params?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jtlapp/kysely-params?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-params?style=flat-square)
+- [kysely-cache](https://github.com/alenap93/kysely-cache) - Cache layer for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/kysely-cache?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/alenap93/kysely-cache?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-params?style=flat-square)
 
 ## Articles
 
