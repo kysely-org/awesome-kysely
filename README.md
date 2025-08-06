@@ -62,6 +62,7 @@
 - [Build a GraphQL server running on Cloudflare Workers](https://the-guild.dev/blog/graphql-yoga-worker) - A blog post by [chimame](https://twitter.com/chimame_rt) about combining [GraphQL](https://graphql.org/), [Prisma](https://www.prisma.io) and [Kysely](https://kysely.dev) on [Cloudflare Workers](https://workers.cloudflare.com).
 - [Typescript で SQL を叩く方法を整理する](https://zenn.dev/moekidev/articles/d3db4dc362b93d) - A blog post by [moekidev](https://twitter.com/moekidev) about trying out [Kysely](https://kysely.dev) with [Prisma](https://www.prisma.io) and [Vercel Postgres](https://vercel.com/postgres).
 - [Kysely が Knex をリプレイスする日も近いかもしれない](https://zenn.dev/acro5piano/articles/388b504289ccaa) - A blog post by [acro5piano](https://github.com/acro5piano) comparing the type safety of Kysely, Knex, and Slonik.
+- [A simple fuzzy search using PostgreSQL and Kysely](https://cc.systems/en/blog/postgres-search/) - An interactive blog post by [kafendt](https://github.com/kafendt) on how to implement a fuzzy search using only Postgres and Kysely.
 
 ## CLIs
 
