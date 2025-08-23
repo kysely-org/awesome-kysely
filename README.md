@@ -117,6 +117,7 @@
 
 - [kysely-playground](https://kyse.link) - Playground for [Kysely](https://kysely.dev). Provides vscode-like experiences including type checking and auto suggestions. Supports built-in dialects ([Postgres](https://postgresql.org), [MySQL](https://www.mysql.com), [SQLite](https://sqlite.org)), last 20 [Kysely](https://kysely.dev) versions. You can test stuff quickly, and create issues with reproducing with the playground. ![GitHub stars](https://img.shields.io/github/stars/wirekang/kysely-playground?style=flat-square)
 - [Kysely Assistant](https://chat.openai.com/g/g-656EWqn2W-kysely-assistant) - Translate SQL to [Kysely](https://kysely.dev) syntax using [Chat GPT](https://chat.openai.com).
+- [kysely-prompt](https://github.com/CodinCat/kysely-prompt) - A prompt packed with examples from the Kysely docs to help AI learn how to write Kysely queries.
 
 ## Type Generators
 
