@@ -98,6 +98,7 @@
 
 - [kysely-orm](https://github.com/seeden/kysely-orm) - TypeSafe ORM for [Kysely](https://kysely.dev) library. ![npm](https://img.shields.io/npm/dw/kysely-orm?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/seeden/kysely-orm?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-orm?style=flat-square)
 - [kysely-mapper](https://github.com/jtlapp/kysely-mapper) - Flexible [Kysely](https://kysely.dev)-based utility for mapping between tables and objects. ![npm](https://img.shields.io/npm/dw/kysely-mapper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/jtlapp/kysely-mapper?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-mapper?style=flat-square)
+- [kysera](https://github.com/kysera-dev/kysera) - Type-safe data access toolkit for TypeScript built on [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/@kysera/core?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/kysera-dev/kysera?style=flat-square) ![NPM](https://img.shields.io/npm/l/@kysera/core?style=flat-square)
 
 ## Plugins
 
