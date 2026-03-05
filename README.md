@@ -118,6 +118,7 @@
 
 ## Tools
 
+- [pgfence](https://github.com/flvmnt/pgfence) - Postgres migration safety CLI that analyzes SQL migrations for dangerous lock patterns and provides safe rewrite recipes. Works with Kysely-generated SQL files. ![npm](https://img.shields.io/npm/dw/@flvmnt/pgfence?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/flvmnt/pgfence?style=flat-square) ![NPM](https://img.shields.io/npm/l/@flvmnt/pgfence?style=flat-square)
 - [kysely-playground](https://kyse.link) - Playground for [Kysely](https://kysely.dev). Provides vscode-like experiences including type checking and auto suggestions. Supports built-in dialects ([Postgres](https://postgresql.org), [MySQL](https://www.mysql.com), [SQLite](https://sqlite.org)), last 20 [Kysely](https://kysely.dev) versions. You can test stuff quickly, and create issues with reproducing with the playground. ![GitHub stars](https://img.shields.io/github/stars/wirekang/kysely-playground?style=flat-square)
 - [Kysely Assistant](https://chat.openai.com/g/g-656EWqn2W-kysely-assistant) - Translate SQL to [Kysely](https://kysely.dev) syntax using [Chat GPT](https://chat.openai.com).
 - [kysely-prompt](https://github.com/CodinCat/kysely-prompt) - A prompt packed with examples from the [Kysely](https://kysely.dev) docs to help AI learn how to write queries with [Kysely](https://kysely.dev).
