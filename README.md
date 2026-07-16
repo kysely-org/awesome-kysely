@@ -107,6 +107,7 @@
 - [kysely-grants](https://github.com/ben-pr-p/kysely-utils/tree/main/packages/kysely-grants) - plugin that implements "Postgres-style grants" on top of [kysely-access-control](https://github.com/ben-pr-p/kysely-utils/tree/main/packages/kysely-access-control)
 - [kysely-plugin-prefix](https://github.com/cloudmix-dev/kysely-plugin-prefix) - set of plugins that allow you to prefix table and index names implicitly
 - [kysely-hash](https://github.com/alenap93/kysely-hash) - Hash plugin for [Kysely](https://kysely.dev). ![npm](https://img.shields.io/npm/dw/kysely-hash?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-hash?style=flat-square)
+- [kysely-sqlcommenter](https://github.com/smolijar/kysely-sqlcommenter) - Add SQLCommenter-compliant request, route, and trace metadata to Kysely-generated SQL. ![npm](https://img.shields.io/npm/dw/kysely-sqlcommenter?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-sqlcommenter?style=flat-square)
 
 
 ## Templates
