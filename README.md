@@ -43,6 +43,7 @@
 - [kysely-tables](https://github.com/galvez/kysely-tables) - Generate SQL schemas and migrations from your [Kysely](https://kysely.dev) types. ![npm](https://img.shields.io/npm/dw/kysely-tables?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/galvez/kysely-tables?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-tables?style=flat-square)
 - [kysely-cursor](https://github.com/lukewpc/kysely-cursor) - Cursor based pagination utils for [Kysely](https://kysely.dev) with multi-dialect support. ![npm](https://img.shields.io/npm/dw/kysely-cursor?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/lukewpc/kysely-cursor?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-cursor?style=flat-square)
 - [kysely-shaper](https://github.com/ttoohey/kysely-shaper) - Helper for [Kysely](https://kysely.dev) to create composable queries. ![npm](https://img.shields.io/npm/dw/kysely-shaper?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ttoohey/kysely-shaper?style=flat-square) ![NPM](https://img.shields.io/npm/l/kysely-shaper?style=flat-square)
+- [@typesql/kysely](https://github.com/ismailkarsli/TypeSQL/tree/main/packages/kysely) - Typed raw SQL queries on a [Kysely](https://kysely.dev) instance. ![npm](https://img.shields.io/npm/dw/@typesql/kysely?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/ismailkarsli/TypeSQL?style=flat-square) ![NPM](https://img.shields.io/npm/l/@typesql/kysely?style=flat-square)
 
 ## Articles
 
